@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/CiscoCloud/distributive.svg?branch=master)](https://travis-ci.org/CiscoCloud/distributive)
+[![Build Status](https://travis-ci.org/mantl/distributive.svg?branch=master)](https://travis-ci.org/mantl/distributive)
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-generate-toc again -->
 **Table of Contents**
